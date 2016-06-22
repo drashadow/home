@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/drashadow/home/issues"
   },
-  "homepage": "https://github.com/drashadow/home#readme"
+  "homepage": "https://github.com/drashadow/home#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "esprima": "^2.7.2",
+    "gulp-ejs": "^2.1.2"
+  }
 }
